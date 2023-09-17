@@ -10,6 +10,5 @@ Goals:
 4.	Identify patterns of nationality/ethnicity and research topics within AI across time.
 5.	Randomly pick authors from the data compiled above and further identify 30 authors who are currently faculty members in top ranked universities in the US. Construct these faculty members’ career trajectories outside of academia (e.g., serve as chief scientist at Facebook).
 •	You may use sources such as google scholar, faculty members' CVs, acknowledgement in the paper publication, LinkedIn, online news, personal website, institutional webpage, etc.
-6.	Identify patterns of published research papers of these faculty members across time, before and after the faculty members engage in activities outside of the academia. 
-![image](https://github.com/XiaoyuOuyang/Analysis_CS_AI_papers/assets/142030989/ab61ad2e-150d-472d-ac7f-d849f401a56a)
+6.	Identify patterns of published research papers of these faculty members across time, before and after the faculty members engage in activities outside of the academia.
 
